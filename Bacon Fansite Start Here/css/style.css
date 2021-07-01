@@ -1,0 +1,46 @@
+/*------------------------------------------------Tag selectors----------------------*/
+
+body{
+    background-color: rgb(121, 115, 113);
+    
+}
+
+h1{
+    font-size: 156px;
+    /*text-shadow: 2px 2px rgb(233, 92, 92);*/
+    color: rgb(0, 0, 0);
+}
+p{
+    text-shadow: 2px 2px rgb(233, 92, 92);
+    color: rgb(0, 0, 0);
+}
+img{
+    background-color: rgb(80, 19, 19);
+}
+
+/*----------------------------------------------------ID selectors-------------------------------------------*/
+
+#bacon:hover{
+    background-color:red;
+}
+
+#broccoli:hover{
+    height:158px;
+    background-color:blue;
+}
+
+#bacon2:hover{
+    background-color:rgb(211, 157, 211);
+}
+
+#text:hover{
+    text-shadow: 2px 2px rgb(233, 92, 92);
+}
+
+
+/*****************************************************Class Selectors*************************************************/
+
+
+.bcn:hover{
+    background-color:rgb(7, 255, 160);
+}
